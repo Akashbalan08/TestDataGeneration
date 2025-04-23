@@ -1,0 +1,6 @@
+"Scenario","Email","Password"
+"Valid login","dorthy.wehner@hotmail.com","Password123!"
+"Invalid email","invalid.email.com","Password123!"
+"Empty email","","Password123!"
+"Empty password","santiago.lind@hotmail.com",""
+"Short password","jae.mcclure@yahoo.com","123"
